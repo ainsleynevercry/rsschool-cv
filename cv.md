@@ -30,3 +30,12 @@ Despite the fact that I am a creative person, I have a _technical_ background. I
 * Elementor
 * Adobe Photoshop — advanced
 * Adobe Illustrator — advanced
+
+## Experience
+I have no experience as a developer yet. Now I study at epam courses and engaged in self-education.
+
+## Education
+Graduated from _Minsk State College of Architecture and Civil Engineering_ with a degree in _engineering and architecture_. Graduated from _Adobe Illustrator_ courses.
+
+## English
+A test from the Internet says that I have an intermediate. But I think that my level is lower, because I understand well by ear, I can write simple sentences, but I slowly think and speak poorly.
