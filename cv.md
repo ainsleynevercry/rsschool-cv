@@ -31,6 +31,20 @@ Despite the fact that I am a creative person, I have a _technical_ background. I
 * Adobe Photoshop — advanced
 * Adobe Illustrator — advanced
 
+## Code examples
+```
+<script>
+	let n = 10;
+	number:
+	for(let i = 2; i <= n; i++) {
+		for(let j = 2; j < i; j++) {
+			if(i % j == 0) continue number;
+		}
+		alert(i);
+	};
+    </script>
+```
+
 ## Experience
 I have no experience as a developer yet. Now I study at epam courses and engaged in self-education.
 
