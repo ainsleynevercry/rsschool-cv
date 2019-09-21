@@ -32,6 +32,8 @@ Despite the fact that I am a creative person, I have a _technical_ background. I
 * Adobe Illustrator — advanced
 
 ## Code examples
+### Display prime numbers up to 10
+
 ```
 <script>
 	let n = 10;
