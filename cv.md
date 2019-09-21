@@ -9,7 +9,7 @@ Yuliya Kravtsova
 
 ## Summary
 As Jason Statham said:
->When my mother gave birth to me, in fact, then I was born.
+> When my mother gave birth to me, in fact, then I was born.
 
 I do different types of creativity: drawing, writing, music. 
 
