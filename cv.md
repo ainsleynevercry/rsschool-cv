@@ -8,9 +8,6 @@ Yuliya Kravtsova
 **e-mail:** jajajajajaja1999@gmail.com
 
 ## Summary
-As Jason Statham said:
-> When my mother gave birth to me, in fact, then I was born.
-
 I do different types of creativity: drawing, writing, music. 
 
 There are some of my art works:
@@ -20,6 +17,12 @@ There are some of my art works:
 It is very gloomy. Isn't it? <br>
 
 Despite the fact that I am a creative person, I have a _technical_ background. I showed interest in programming thanks to my father when I was searching for myself. I have been learning web programming on my own _**for only a month**_, but I have some small _positive_ results. Programming is difficult, but interesting. **I’m not afraid** of complexity. So far I am not a cool specialist, but in the future I hope to achieve great success.
+
+As Naruto Uzumaki said:
+> Never give up... Get up when everything collapsed - this is real strength.
+
+Or as a last resort:
+> I don’t understand anything! Okay, pretend I got it...
 
 ## Skills
 * HTML5 — base
