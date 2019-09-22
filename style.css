@@ -48,7 +48,6 @@ p {
 li {
     font-size: 20px;
     list-style-type: circle;
-    
 }
 
 .main-bg {
@@ -61,5 +60,23 @@ h3 {
 }
 
 .list-elements {
-    padding-left: 5%;
+    padding-left: 8%;
+}
+
+.my-photo {
+    padding-left: 362px;
+}
+
+q {
+    position: static;
+    background-color: rgba(254, 254, 254, 0.1);
+    border-top: 0px;
+    border-bottom: 0px;
+    border-right: 0px;
+    border-left: white 1px solid;
+    margin: 5%;
+    padding: 15px;
+    bottom: 20px;
+    font-family: "comic sans ms";
+    font-size: 18px;
 }
