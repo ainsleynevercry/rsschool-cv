@@ -1,48 +1,103 @@
 body {
     width: 1024px;
     margin: auto;
-    background-image: url(https://i.ibb.co/DCLdNw9/luxfon-com-6370.jpg);
-    background-size: cover;
-    color: white;
-    font-family: Verdana, Tahoma, sans-serif;
 
+    display: block;
+    
+    font-family: Verdana, Tahoma, sans-serif;
+    color: white;
+    
+    background-image: url(https://i.ibb.co/q9mQZ1K/temnyy-pyatna-tekstura-fon-50355-1920x1080.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+header {
+    margin: 0;
+    margin-bottom: -25px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+
+    display: block;
+
+    background-color: rgba(254, 254, 254, 0.3);
+}
+
+h1 {
+    padding: 8px;
+
+    font-size: 50px;
+    text-align: center;
+    color: white;
 }
 
 img {
-    height: 300px;
     width: 300px;
+    height: 300px;
 }
 
 .pictures {
     margin: 0% 5% 0%;  
 }
 
-.tbg {
-    background-color: rgba(254, 254, 254, 0.3);
-}
+.my-photo {
+    margin-left: 362px;
 
-h1 {
-    text-align: center;
-    font-size: 50px;
-    color: white;
-    padding: 8px;
+    border:  rgba(0, 0, 0, 0.6) 5px solid;
+    border-radius: 150px;
+}
+ 
+#first-art {
+    border-radius: 50px 0 0 50px;
+}
+ 
+#third-art {
+    border-radius: 0 50px 50px 0;
+} 
+
+main {
+    padding-bottom: 1%;
+
+    background-color: rgba(254, 254, 254, 0.1);
 }
 
 h2 {
-    font-size: 30px;
     padding: 10px;
     padding-left: 5%;
+
+    font-size: 30px;
+    
     background-color: rgba(254, 248, 77, 0.3);
 }
 
-p {
-    font-size: 20px;
+h3 {
     padding-left: 5%;
 }
 
-.code-align {
-    padding: 15px;
+p {
     padding-left: 5%;
+    padding-right: 5%;
+
+    font-size: 20px;
+    
+    text-align: justify;
+}
+
+q {
+    position: static;
+    margin: 5%;
+    padding: 15px;
+    bottom: 20px;
+
+    font-family: "comic sans ms";
+    font-size: 18px;
+
+    background-color: rgba(254, 254, 254, 0.1);
+    border-left: white 3px solid;
+}
+
+.list-elements {
+    padding-left: 8%;
 }
 
 li {
@@ -50,33 +105,22 @@ li {
     list-style-type: circle;
 }
 
-.main-bg {
-    background-color: rgba(254, 254, 254, 0.1);
-    padding-bottom: 1%;
-}
-
-h3 {
-    padding-left: 5%;
-}
-
-.list-elements {
-    padding-left: 8%;
-}
-
-.my-photo {
-    padding-left: 362px;
-}
-
-q {
-    position: static;
-    background-color: rgba(254, 254, 254, 0.1);
-    border-top: 0px;
-    border-bottom: 0px;
-    border-right: 0px;
-    border-left: white 1px solid;
-    margin: 5%;
+.code-align {
     padding: 15px;
-    bottom: 20px;
-    font-family: "comic sans ms";
-    font-size: 18px;
+    padding-left: 5%;
+
+    background-color: rgba(254, 254, 254, 0.3);
+}
+
+footer {
+    margin: 0 auto;
+    padding: 8px;
+
+    font-size: 50px;
+
+    background-color: rgba(254, 254, 254, 0.3);
+}
+
+.footer-p {
+    text-align: center;
 }
