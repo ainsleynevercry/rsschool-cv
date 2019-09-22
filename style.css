@@ -1,0 +1,31 @@
+body {
+    width: 1024px;
+    margin: auto;
+    padding: 10px;
+    background-image: url(https://i.ibb.co/hVvnrT0/les-tuman-derevia-127289-1280x720.jpg);
+    background-size: cover;
+    color: white;
+
+}
+
+hr {
+    border: none;
+    color: grey;
+    background-color: grey;
+    height: 1px;
+    width: 1024px;
+    
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
+
+.pictures {
+    margin: 0% 5% 0%;  
+}
+
+h1 {
+    text-align: center;
+}
